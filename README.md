@@ -1,6 +1,6 @@
 ## Hi guys ! I'm SunBK201 🎉
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunBK201&hide=html,css&layout=compact&show_icons=true&hide_border=false&theme=omni" alt="SunBK201's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunBK201&hide=html,css&layout=compact&show_icons=true&hide_border=false&theme=omni" alt="SunBK201's github stats"/>
 
 - Twitter [@SunBK201](https://twitter.com/SunBK201)
 - RSS [@SunBK201](https://www.sunbk201.site/atom.xml)
