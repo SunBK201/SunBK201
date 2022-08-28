@@ -5,7 +5,8 @@
 <a href="https://www.sunbk201.site"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSunBK201&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=SunBK201&edge_flat=false"/></a>
 
 - Twitter [@SunBK201](https://twitter.com/SunBK201)
-- RSS [@SunBK201](https://www.sunbk201.site/atom.xml)
+- Blog [@SunBK201](https://blog.sunbk201.site/)
+- RSS [@SunBK201](https://blog.sunbk201.site/feed)
 - Notion [@SunBK201](https://sunbk201public.notion.site/SunBK201-3f6694cf467e4ef6ba0f07717ffb5a13)
 - PlayStation [@SunBK201](https://psnprofiles.com/SunBK201)
 
